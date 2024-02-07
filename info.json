@@ -1,0 +1,10 @@
+{
+    "Configurations": [
+      {
+        "Board": "ESP32S3_DEV",
+        "Device": "F4:12:FA:66:90:04",
+        "Version": "1.0.0",
+        "URL": "https://example.com/Basic-OTA-Example-ESP32S3_DEV-1.0.0.bin"
+      }
+    ]
+  }
