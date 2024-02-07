@@ -3,8 +3,8 @@
       {
         "Board": "ESP32S3_DEV",
         "Device": "F4:12:FA:66:90:04",
-        "Version": "1.0.0",
-        "URL": "https://example.com/Basic-OTA-Example-ESP32S3_DEV-1.0.0.bin"
+        "Version": "2.0.0",
+        "URL": "https://raw.githubusercontent.com/tigershark224/ESP_OTA_Public/master/firmware.bin"
       }
     ]
   }
